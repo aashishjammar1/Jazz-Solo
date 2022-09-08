@@ -1,1 +1,1 @@
-# Jazz-Solo
+# Improvise_a_Jazz_Solo_with_an_LSTM_Network
